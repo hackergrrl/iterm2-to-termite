@@ -1,0 +1,12 @@
+{
+  "name": "iterm2-to-termite",
+  "description": "CLI to convert iTerm2 themes to Termite themes",
+  "version": "0.0.0",
+  "bin": {
+    "iterm2-to-termite": "index.js"
+  },
+  "dependencies": {
+    "plist": "^3.0.1"
+  },
+  "license": "ISC"
+}
